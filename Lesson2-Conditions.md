@@ -83,5 +83,29 @@ The keyword do now goes before the curly bracket, and the while and test go afte
 ## Note:
 Unlike the test in an if statement or a while loop, you need to put a semicolon after the test in a do while loop. This indicates the end of the loop code; in a while loop, the loop code doesn't end until the last statement inside the curly brackets.
 
-## Task
+## Task: Multiple Conditions
+Objective: Extend logic
+Instructions:
+Write a program that outputs:
+•	"Cold" if temperature < 10
+•	"Warm" if temperature is between 10 and 25
+•	"Hot" if temperature > 25
+Use:
+•	if
+•	else if
+•	else
+
+## Task: Apply full logic
+Scenario:
+You are designing a temperature monitoring system
+Write a program that:
+•	Outputs: 
+o	"Cold" (< 10)
+o	"Normal" (10–25)
+o	"Hot" (25–35)
+o	"Danger" (> 35)
+Include:
+•	Correct conditions
+•	Clear output messages
+
 
