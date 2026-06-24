@@ -66,5 +66,13 @@ so a = a + 2 * 3 evaluates the multiply first and then adds the result, 6, to a.
 You can use round brackets to change precedence – a = (a + 2) * 3  gives 3a + 6
 
 ## Task
+Task Using Floats
+1.	Change your variables to float
+2.	Use decimal numbers: 
+o	x = 2.5
+o	y = 4.3
+3.	Output the result correctly
+
+What format specifier should you use?
 
 [⬅ Lesson 1](Lesson1-Variables.md) | [Next ➡ Lesson 2](Lesson2-Floats.md)
