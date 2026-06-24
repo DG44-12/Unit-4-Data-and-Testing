@@ -75,4 +75,4 @@ o	y = 4.3
 
 What format specifier should you use?
 
-[⬅ Lesson 1](Lesson1-Variables.md) | [Next ➡ Lesson 2](Lesson2-Floats.md)
+[⬅ Lesson 1](Lesson1-Variables.md) | [Next ➡ Lesson 2](Lesson2-Conditions.md)
