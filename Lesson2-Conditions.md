@@ -40,11 +40,6 @@ You can combine tests with logical operators. The symbol && is a Boolean AND (i.
 
 Similarly, you can use the operator ! as a Boolean NOT to invert the result of a test, so if (!(a == 0)) is the same as if (a != 0).
 
-	else
-	{
-	printf (“a is not equal to 0\n”);
-	}
-}
 ## Looping 
 The if statement is useful for making a single decision, but what if you want to do something repeatedly until a test is true or false? We use a while loop for this, and here’s an example:
 ```c
